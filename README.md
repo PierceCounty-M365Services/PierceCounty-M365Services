@@ -1,7 +1,5 @@
 # Welcome to Pierce County M365 Services Team GitHub 👋
 
-!Pierce County M365 Services Team Logo
-
 ## About Us
 
 Welcome to the official GitHub repository for the Pierce County M365 Services Team! We are dedicated to managing and optimizing Microsoft 365 services for Pierce County. This GitHub serves as our central repository for all administration-related code, scripts, configurations, and documentation.
